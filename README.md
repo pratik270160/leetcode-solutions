@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pratik270160/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/pratik270160/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pratik270160/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pratik270160/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pratik270160/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pratik270160/leetcode-solutions/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pratik270160/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
