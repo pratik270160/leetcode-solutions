@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pratik270160/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pratik270160/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratik270160/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/pratik270160/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratik270160/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/pratik270160/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
