@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pratik270160/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratik270160/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratik270160/leetcode-solutions/tree/master/0027-remove-element) |
+| [0047-permutations-ii](https://github.com/pratik270160/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/pratik270160/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/pratik270160/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/pratik270160/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/pratik270160/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/pratik270160/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik270160/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/pratik270160/leetcode-solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
