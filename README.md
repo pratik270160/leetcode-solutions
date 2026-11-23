@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/pratik270160/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/pratik270160/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pratik270160/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pratik270160/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pratik270160/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratik270160/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/pratik270160/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/pratik270160/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pratik270160/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/pratik270160/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pratik270160/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/pratik270160/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratik270160/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratik270160/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/pratik270160/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
